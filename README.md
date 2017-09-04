@@ -4,6 +4,8 @@ A Multilayer Perceptron for binary label prediction
 Simple but robust experiment showing that neural networks can outperform
 other machine learning algorithms (KNN, SVM, GaussianNB)
 
+See pages 6-10 from the following paper: https://arxiv.org/pdf/1506.00019.pdf
+
 Jupyter Notebook is used to run the experiment, hence if script is open
 sample output can be seen.
 

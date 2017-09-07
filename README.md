@@ -6,8 +6,8 @@ other machine learning algorithms (KNN, SVM, GaussianNB)
 
 See pages 6-10 from the following paper: https://arxiv.org/pdf/1506.00019.pdf
 
-Jupyter Notebook is used to run the experiment, hence if script is open
-sample output can be seen.
+**Jupyter Notebook is used to run the experiment, hence if script (MLPExperiment.ipynb) is open
+sample output can be seen.**
 
 MLP built with TensorFlow 1.2.0 and Python 3.5.3 through anaconda3
 
